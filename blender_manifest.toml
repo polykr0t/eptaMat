@@ -3,7 +3,7 @@ id = "eptamat_tools"
 name = "Edit Parameters Tool All MATerials"
 version = "1.0.0"
 tagline = "Edit multiple material parameters across selected objects"
-maintainer = "Artem <kozirev.ao@gmail.com>"
+maintainer = "[CPanda]_AKoz <kozirev.ao@gmail.com>"
 type = "add-on"
 tags = ["Material"]
 blender_version_min = "4.2.0"
@@ -12,5 +12,5 @@ website = "https://github.com/polykr0t/eptaMat/tree/main"
 
 
 copyright = [
-    "2025 2025 [panda]AKoz",
+    "2025 [CPanda]_Akoz",
 ]
